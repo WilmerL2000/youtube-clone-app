@@ -2,6 +2,7 @@ import React from 'react';
 import { Typography, Card, CardContent, CardMedia } from '@mui/material';
 import { Link } from 'react-router-dom';
 import { CheckCircle } from '@mui/icons-material';
+import { getDateFormat } from '../utils/getDateFormat';
 
 const VideoCard = ({
   video: {
@@ -43,6 +44,9 @@ const VideoCard = ({
             <CheckCircle sx={{ fontSize: 12, color: 'gray', ml: '5px' }} />
           </Typography>
         </Link>
+        <Typography variant="subtitle2" fontWeight="bold" color="gray">
+          {`${getDateFormat(snippet?.publishedAt)} ago`}
+        </Typography>
       </CardContent>
     </Card>
   );
