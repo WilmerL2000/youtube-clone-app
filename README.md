@@ -117,10 +117,10 @@ As its name says, this project is a clone of YouTube, which has some of the feat
 
 <div align="center">
   <div>
-    <img src="https://res.cloudinary.com/wils09/image/upload/v1682492960/GitHub/tiktok-clone/mobile1_xgpdfp.png" width="100%" >
+    <img src="https://res.cloudinary.com/wils09/image/upload/v1682546643/GitHub/yt-clone/mobile1_gtnfxr.png" width="100%" >
   </div>
   <div>
-    <img src="https://res.cloudinary.com/wils09/image/upload/v1682492959/GitHub/tiktok-clone/mobile2_apjiyi.png" width="100%" >
+    <img src="https://res.cloudinary.com/wils09/image/upload/v1682546643/GitHub/yt-clone/mobile2_vwaa1j.png" width="100%" >
   </div>
 </div>
 
@@ -142,7 +142,7 @@ _Follow the instructions below_
    ```sh
    npm install
    ```
-3. Enter your API KEYS in `.env` file
+3. Enter your API KEYS from Rapid API in `.env` file
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
