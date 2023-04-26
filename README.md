@@ -1,70 +1,165 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT LOGO -->
+<div align="center">
+  <h1 align="center">YouTube Clone</h1>
+    <img src="https://res.cloudinary.com/wils09/image/upload/v1682546645/GitHub/yt-clone/main_u9c58v.png" width="100%" >
+  <p align="center">
+    <a href="https://youtube-clone-app-mu.vercel.app/" target="_blank">Web Page</a>
+  </p>
+</div>
 
-## Available Scripts
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>
+    <strong>
+        Table of Contents
+    </strong>
+  </summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#tech-stack">Tech Stack</a></li>
+        <li><a href="#features">Features</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#desktop">Desktop</a></li>
+        <li><a href="#mobile">Mobile</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-In the project directory, you can run:
+<!-- ABOUT THE PROJECT -->
 
-### `npm start`
+## About The Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+As its name says, this project is a clone of YouTube, which has some of the features and functionality of the original application.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Features
 
-### `npm test`
+- Play the different videos.
+- Search for videos.
+- Visit the different channels of those who made the videos.
+- Load the different videos of that specific channel.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tech Stack
 
-### `npm run build`
+<table>
+    <tr>
+      <td align="center" width="96">          
+        <br><strong>Tech</strong>
+      </td>           
+      <td align="center" width="96">
+          <img src="https://res.cloudinary.com/wils09/image/upload/v1682487163/GitHub/assets/react_original_logo_icon_146374_whazfv.png" width="48" height="48" alt="C#" />
+        <br><strong>React</strong>        
+      </td>      
+      <td align="center" width="96">
+          <img src="https://res.cloudinary.com/wils09/image/upload/v1682487162/GitHub/assets/material_ui_jqpugk.png" width="48" height="48" alt="C#" />
+        <br><strong>Material UI</strong>        
+      </td>     
+      <td align="center" width="96">
+          <img src="https://res.cloudinary.com/wils09/image/upload/v1682537001/GitHub/assets/axios_hhohil.png" width="48" height="48" alt="C#" />
+        <br><strong>Axios</strong>        
+      </td>     
+    </tr>
+     <tr>
+      <td align="center" width="96">          
+        <br><strong>Version</strong>
+      </td>      
+      <td align="center" width="96">
+        <br>18.2.0
+      </td>     
+      <td align="center" width="96">
+        <br>5.11.12
+      </td>     
+      <td align="center" width="96">
+        <br>1.3.4
+      </td>     
+    </tr>
+  </table>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- USAGE EXAMPLES -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
 
-### `npm run eject`
+### Desktop
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<div align="center">
+  <div>
+    <h3>Channel Profile</h3>
+    <img src="https://res.cloudinary.com/wils09/image/upload/v1682546643/GitHub/yt-clone/channel_f5key1.png" width="100%" >
+  </div>
+  <div>
+    <h3>Video Detail</h3>
+    <img src="https://res.cloudinary.com/wils09/image/upload/v1682546643/GitHub/yt-clone/video_m7blsm.png" width="100%" >
+  </div>
+  <div>
+    <h3>Search</h3>
+    <img src="https://res.cloudinary.com/wils09/image/upload/v1682546644/GitHub/yt-clone/search_sp5foq.png" width="100%" >
+  </div>
+</div>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Mobile
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<div align="center">
+  <div>
+    <img src="https://res.cloudinary.com/wils09/image/upload/v1682492960/GitHub/tiktok-clone/mobile1_xgpdfp.png" width="100%" >
+  </div>
+  <div>
+    <img src="https://res.cloudinary.com/wils09/image/upload/v1682492959/GitHub/tiktok-clone/mobile2_apjiyi.png" width="100%" >
+  </div>
+</div>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Learn More
+<!-- GETTING STARTED -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Getting Started
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+_Follow the instructions below_
 
-### Code Splitting
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Clone the repo
+   ```sh
+   git clone https://github.com/WilmerL2000/youtube-clone-app.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Enter your API KEYS in `.env` file
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+4. Start project
+   ```sh
+   npm start
+   ```
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- CONTACT -->
 
-### Making a Progressive Web App
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+`Wilmer Lopez Cespedes`
 
-### Advanced Configuration
+- Correo: wilmerlopezcespedes@gmail.com
+- <a href="https://www.linkedin.com/in/wilmer-lopez-cespedes/" target="_blank">LinkedIn</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
