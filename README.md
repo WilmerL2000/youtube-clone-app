@@ -62,15 +62,15 @@ As its name says, this project is a clone of YouTube, which has some of the feat
         <br><strong>Tech</strong>
       </td>           
       <td align="center" width="96">
-          <img src="https://res.cloudinary.com/wils09/image/upload/v1682487163/GitHub/assets/react_original_logo_icon_146374_whazfv.png" width="48" height="48" alt="C#" />
+          <img src="https://res.cloudinary.com/wils09/image/upload/v1682487163/GitHub/assets/react_original_logo_icon_146374_whazfv.png" width="48" height="48" alt="React" />
         <br><strong>React</strong>        
       </td>      
       <td align="center" width="96">
-          <img src="https://res.cloudinary.com/wils09/image/upload/v1682487162/GitHub/assets/material_ui_jqpugk.png" width="48" height="48" alt="C#" />
+          <img src="https://res.cloudinary.com/wils09/image/upload/v1682487162/GitHub/assets/material_ui_jqpugk.png" width="48" height="48" alt="Material UI" />
         <br><strong>Material UI</strong>        
       </td>     
       <td align="center" width="96">
-          <img src="https://res.cloudinary.com/wils09/image/upload/v1682537001/GitHub/assets/axios_hhohil.png" width="48" height="48" alt="C#" />
+          <img src="https://res.cloudinary.com/wils09/image/upload/v1682537001/GitHub/assets/axios_hhohil.png" width="48" height="48" alt="Axios" />
         <br><strong>Axios</strong>        
       </td>     
     </tr>
