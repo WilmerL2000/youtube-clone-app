@@ -142,11 +142,15 @@ _Follow the instructions below_
    ```sh
    npm install
    ```
-3. Enter your API KEYS from Rapid API in `.env` file
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Subscribe to this Rapid API
+   ```sh
+   https://rapidapi.com/ytdlfree/api/youtube-v31/
    ```
-4. Start project
+4. Enter your API KEYS from Rapid API in `.env` file
+   ```js
+   API_KEY = 'ENTER YOUR API';
+   ```
+5. Start project
    ```sh
    npm start
    ```
